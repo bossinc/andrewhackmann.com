@@ -164,6 +164,14 @@ img {
   }
 }
 
+.mastheadnoline {
+  padding: 20px 0;
+
+  @include mobile {
+    text-align: center;
+  }
+}
+
 .site-avatar {
   float: left;
   width: 70px;
