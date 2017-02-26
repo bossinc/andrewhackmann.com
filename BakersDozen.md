@@ -1,11 +1,12 @@
 ---
 layout: project
-title: Bakers Dozen
-permalink: /projects/
+title: Baker's Dozen
+permalink: /BakersDozen/
 ---
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/XbJ-XvnPGfI/1.jpg)](https://www.youtube.com/watch?v=XbJ-XvnPGfI)
-[App Link](https://play.google.com/store/apps/details?id=com.AndrewHackmann.BakersDozen&hl=en)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbJ-XvnPGfI?rel=0" frameborder="0" allowfullscreen></iframe>
 ## Baker's Dozen
+[Play for free!](https://play.google.com/store/apps/details?id=com.AndrewHackmann.BakersDozen&hl=en)
+
 Easy to understand but difficult to complete!
 #### Gameplay
 * Tilt your device to slide the doughnuts and dough balls
@@ -37,7 +38,7 @@ The only point I wish I executed better was theming each mechanic, specifically,
 This new iteration of Baker’s Dozen was created with [Unity](https://unity3d.com/), which proved to be a better choice than XNA for several reasons. For example, Unity has an amazing visual editor that allows for easy tuning on the fly and has powerful scripting that other similar editors do not possess. Beside the better engine choice, my knowledge of programming also progressed due to completing several advanced data structure and programming language courses that I applied to this hobby. So, my code became modular, extensive, and well documented.
 
 The level editor for Baker’s Dozen is not pretty to look at because it was never meant to be shared (Consider yourself lucky!) It was created with .NET and C#. I chose these tools simply for the sake of familiarity. My editor uses a common save file system that the game also reads so levels can be created, saved, and played in a matter of seconds!
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/U9L-gac9dZo/1.jpg)](https://www.youtube.com/watch?v=U9L-gac9dZo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9L-gac9dZo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### Future Development
 Since Baker’s Dozen is design well, it would be trivial to add new levels and relatively easy to add new mechanics. There will be an expansion containing both. My family and friends are currently enjoying Baker’s Dozen, so I look forward to creating new mechanics and levels for them to enjoy again!

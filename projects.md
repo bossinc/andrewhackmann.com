@@ -10,7 +10,9 @@ A puzzle game created with Unity that utilizes the device's gyroscope as the mai
 ***
 
 ### [Clean Room!](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=90102)
+Your room is a mess! Hide the mess before your mom breaks down your door to pass her judgement. Use WASD to orbit around your room and pick up objects by clicking and dragging.
 
+Clean Room! was created over 72 hours by Andrew Hackmann and Josh Bangs for Ludum Dare 37. The game jam theme was “one room.” This was our second game jam but first jam together.
 
 ***
 
@@ -28,7 +30,3 @@ Photo Check is used by project managers to compress, review, and consistently na
  A professional asset management application for an electronic recycling company. It was designed to reduce the time spent auditing by standardizing and regulating the entire auditing process. We set and completed deadlines, so when the application was released, it was competitive in the market. We maintained a strong working relationship with the testing company to ensure quality at every turn. I was responsible for technical design and programming.
 
 ***
-
-## Contact me
-
-[andrew@hackmann.me](mailto:andrew@hackmann.me)
