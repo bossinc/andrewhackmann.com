@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I create video games, tools for game creation, and business software. I am highly self-motivated to strive for excellence on every project.
 
 ## Education
 
@@ -21,8 +20,8 @@ I am part of the Development Operations and Automation team. We are responsible 
 
 ## Skills
 
-* **Programming** - `C++` / `C#` / `Java` / `SQL` / `Python`
-* **Software** - `Unity` / `Oracle Database` / `MS SQL` / `MongoDB` / `Linux` / `Visual Studio`
+* **Programming** - `C++` / `C#` / `Java` / `SQL` / `JavaScript` / `React` / `Python`
+* **Software** - `Unity` / `Oracle Database` / `MS SQL` / `MongoDB` / `Linux` / `Git`
 
 ## Contact me
 
