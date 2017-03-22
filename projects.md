@@ -63,8 +63,3 @@ A multi-currency mobile wallet that resolves the pains of traveling abroad. Pei 
 
 ***
 
-### Humor Me
-
-You are locked in a mansion with watchful shadows that will materialize in the light of your lamp. Balance the four humors to ward off the stalkers. Survive long enough to escape before you join the shadows.
-
-***
