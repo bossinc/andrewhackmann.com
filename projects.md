@@ -54,12 +54,3 @@ Photo Check is used by project managers to compress, review, and consistently na
 
 ***
 
-
-## Current Projects
-   
-### [Pei](http://youpei.me/#)
-
-A multi-currency mobile wallet that resolves the pains of traveling abroad. Pei is perfect for sending money, splitting bills, and converting currencies anywhere.
-
-***
-
