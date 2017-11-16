@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Andriod the GOAT
 permalink: /android_is_GOAT/
 ---
